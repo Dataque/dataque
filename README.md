@@ -61,7 +61,7 @@ Y alguna más...
 
 ## Los retos de programación de la comunidad:
 
-![https://retosdeprogramacion.com](./mouredev_retos_programacion.png)
+
 
 ### Retos Semanales y Mensuales para mejorar nuestra lógica de programación y portfolio de aplicaciones [retosdeprogramacion.com](https://retosdeprogramacion.com)
 
