@@ -1,7 +1,7 @@
 # ![https://github.com/leancsv/lean.csv](https://github.com/leancsv/lean.csv/blob/main/Kevin1.png?raw=true) Hola, mi nombre es Leandro Araque 👋
 ### Data Analyst | Data Science - Apasionado por el poder de la información
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+![https://github.com/leancsv/lean.csv](https://github.com/leancsv/lean.csv/blob/main/Banner.png?raw=true)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
