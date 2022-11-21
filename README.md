@@ -1,5 +1,5 @@
-# ![https://github.com/leancsv/lean.csv](https://github.com/leancsv/lean.csv/blob/main/Kevin1.png?raw=true) Hola, mi nombre es Brais Moure 👋
-### Freelance full-stack iOS & Android engineer coment
+# ![https://github.com/leancsv/lean.csv](https://github.com/leancsv/lean.csv/blob/main/Kevin1.png?raw=true) Hola, mi nombre es Leandro Araque 👋
+### Data Analyst | Data Science - Apasionado por el poder de la información
 
 ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
