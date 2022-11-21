@@ -5,8 +5,8 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC19UkylFnVp-B3fUvpBTCGA?style=social)](https://www.youtube.com/@leandroaraque?sub_confirmation=1)
 [![Twitter Follow](https://img.shields.io/twitter/follow/leandro_csv?style=social)](https://twitter.com/leandro_csv)
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/leancsv?style=social)
+![GitHub Followers](https://img.shields.io/github/stars/leancsv?style=social)
 
 Soy ingeniero de software profesional desde hace más de doce años.
 
