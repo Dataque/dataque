@@ -1,5 +1,5 @@
 # ![https://github.com/leancsv/lean.csv](https://github.com/leancsv/lean.csv/blob/main/Kevin1.png?raw=true) Hola, mi nombre es Leandro Araque 👋
-### Data Analyst | Data Science - Apasionado por el poder de la información
+### Data Analyst | Data Science - Apasionado por el constante aprendizaje
 
 ![https://github.com/leancsv/lean.csv](https://github.com/leancsv/lean.csv/blob/main/Banner.png?raw=true)
 
@@ -10,7 +10,7 @@
 
 Soy ingeniero de software profesional desde hace más de doce años.
 
-En 2014 dejé mi trabajo en una multinacional y creé [**MoureDev**](https://mouredev.com), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
+En 2014 dejé mi trabajo en una multinacional y creé [**Lean**](https://leancsv.github.io/home/), el reflejo de mi sueño de crecer como profesional dentro de la industria del desarrollo de software.
 Desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones móviles, colaborando con empresas de diferentes partes del mundo, creando más de 100 Apps y fundando mi propia startup.
 
 En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear contenido de programación y compartir mi experiencia como desarrollador en plataformas como YouTube, Twitch o Udemy. Me gustaría devolver de alguna manera todo el conocimiento que la comunidad ha compartido conmigo de forma gratuita a lo largo de los años.
