@@ -4,7 +4,7 @@
 ![https://github.com/leancsv/lean.csv](https://github.com/leancsv/lean.csv/blob/main/Banner.png?raw=true)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC19UkylFnVp-B3fUvpBTCGA?style=social)](https://www.youtube.com/@leandroaraque?sub_confirmation=1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/mouredev?style=social)](https://twitter.com/leandro_csv)
+[![Twitter Follow](https://img.shields.io/twitter/follow/leandro_csv?style=social)](https://twitter.com/leandro_csv)
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)
 
